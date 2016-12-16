@@ -1,2 +1,5 @@
 # Second Shortest Path
-This is a Python implementation for the problem of the 'second shortest path' in a weighted undirected cyclic graph. It is based on the 'Dijkstra's shortest path algorithm', using heap structures.
+
+"Second shortest path in a weighted undirected cyclic graph" implementation in Python. 
+
+Project for the course "Algorithm Engineering" (University of Rome Tor Vergata)
